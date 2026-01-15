@@ -2,9 +2,7 @@
 
 This repository contains the complete source code for the course **Build AI-Powered Apps**:
 
-https://codewithmosh.com/p/build-ai-powered-apps
-
-I have designed this course to teach you everything you need to know to confidently bring AI into your applications. In this course, you’ll learn how to:
+In this course, you’ll learn how to:
 
 - Understand large language models (LLMs) and how they work  
 - Work with tokens, context windows, and model settings  
